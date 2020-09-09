@@ -5,12 +5,13 @@
 - 💻 I'm currently working on creating a [Blog][website] in jekyll
 - 🔰 I'm exploring NextJS. It seems legit
 - 📕 I'm also learning more around Rails, Kubernetes and data architecture
-- ⚡ 2020 Goals: Build a NextJS starter template with Netlify as a CMS
+- ⚡ 2020 Goals: Build a NextJS + MongoDB site
 
 ### Let's connect:
 
 [<img align="left" alt="Miguel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Miguel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Miguel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Miguel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -37,6 +38,7 @@
 
 [website]: https://malcolmcodes.com
 [twitter]: https://twitter.com/miguelmalcolm
+[linkedin]: https://linkedin.com/in/miguel-js
 [instagram]: https://instagram.com/miguelxmalcolm
 [vscode]: https://code.visualstudio.com/
 [github]: https://github.com/
