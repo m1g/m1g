@@ -2,10 +2,13 @@
 
 ### What I'm up to:
 
-- 💻 I'm currently working on creating a [Blog][website] in jekyll
-- 🔰 I'm exploring NextJS. It seems legit
-- 📕 I'm also learning more around Rails, Kubernetes and data architecture
-- ⚡ 2020 Goals: Build a NextJS + MongoDB site
+- 💻 I'm currently creating drafts for [my jekyll blog][website]
+- 🔰 I'm exploring GraphQL as an alternative to REST
+- 📕 I'm also experimenting more the the MERN stack
+- ⚡ 2021 Goals: 
+  - [ ] Create and maintain a useful full-stack app
+  - [ ] Be more opinionated on data architecture
+  - [ ] Up my non-existent hacker skills (infosec)
 
 ### Let's connect:
 
