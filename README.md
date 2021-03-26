@@ -4,7 +4,7 @@
 
 - 💻 I'm currently creating drafts for [my jekyll blog][website]
 - 🔰 I'm exploring GraphQL as an alternative to REST
-- 📕 I'm also experimenting more the the MERN stack
+- 📕 I'm also experimenting more with the MERN stack
 - ⚡ 2021 Goals: 
   - [ ] Create and maintain a useful full-stack app
   - [ ] Be more opinionated on data architecture
