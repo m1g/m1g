@@ -37,7 +37,6 @@
 <br />
 <br />
 
-<img align="left" alt="m1g's Github Stats" src="https://github-readme-stats.vercel.app/api?username=m1g&show_icons=true&hide_border=true&hide=stars&count_private=true">
 
 [website]: https://m1g.github.io
 [twitter]: https://twitter.com/miguelmalcolm
@@ -52,4 +51,3 @@
 [git]: https://git-scm.com/
 [mongodb]: https://www.mongodb.com/
 
-<!-- h/t codeSTACKr next level github profile https://www.youtube.com/watch?v=ECuqb5Tv9qI -->
