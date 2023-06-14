@@ -3,47 +3,45 @@
 ### What I'm up to:
 
 - 💻 I'm currently writing drafts for [my hexo blog][website]
-- 🛣️ I'm exploring architectural solutions and workflows
+- 🛣️ I'm exploring React architectural solutions and workflows
 - 📕 I'm also experimenting with different CMS approaches
 - ⚡ 2023 Goals: 
+  - [ ] Up my non-existent hacker skills (infosec)
   - [ ] Build a simple, reusable CMS template
   - [ ] Be more conscious of my own downtime v. uptime
-  - [ ] Up my non-existent hacker skills (infosec)
 
 ### Let's connect:
 
-[<img align="left" alt="Miguel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Miguel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Miguel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Miguel | Twitter](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/twitter.svg&fill=white&width=32px#gh-dark-mode-only)](https://twitter.com/miguelmalcolm#gh-dark-mode-only)&nbsp;
+[![Miguel | Twitter](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/twitter.svg&fill=black&width=32px#gh-light-mode-only)](https://twitter.com/miguelmalcolm#gh-light-mode-only)&nbsp;
+[![Miguel | Instagram](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/instagram.svg&fill=white&width=32px#gh-dark-mode-only)](https://instagram.com/miguelxmalcolm#gh-dark-mode-only)&nbsp;
+[![Miguel | Instagram](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/instagram.svg&fill=black&width=32px#gh-light-mode-only)](https://instagram.com/miguelxmalcolm#gh-light-mode-only)&nbsp;
+[![Miguel | LinkedIn](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/linkedin.svg&fill=white&width=32px#gh-dark-mode-only)](https://linkedin.com/in/miguel-js#gh-dark-mode-only)
+[![Miguel | LinkedIn](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/linkedin.svg&fill=black&width=32px#gh-light-mode-only)](https://linkedin.com/in/miguel-js#gh-light-mode-only)
 
-<br />
 
 ### My Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />][sass]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />][react]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/git/git-original.svg" />][git]
-[<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />][typescript]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/mongodb/mongodb-original-wordmark.svg" />][mongodb]
-
-<br />
-<br />
+[![Visual Studio Code](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/visualstudio.svg&fill=%23007ACC&width=32px)][vscode]&nbsp;&nbsp;
+[![Miguel | Github](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/github.svg&fill=white&width=32px#gh-dark-mode-only)](https://github.com/m1g#gh-dark-mode-only)&nbsp;&nbsp;
+[![Miguel | Github](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/github.svg&fill=black&width=32px#gh-light-mode-only)](https://github.com/m1g#gh-light-mode-only)
+[![Javascript](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/javascript.svg&fill=%23F7DF1E&width=32px)][javascript]&nbsp;&nbsp;
+[![Sass](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/sass.svg&fill=%23CC6699&width=32px)][sass]&nbsp;
+[![React](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/react.svg&fill=%2361DAFB&width=32px)][react]&nbsp;&nbsp;
+[![Typescript](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/typescript.svg&fill=%233178C6&width=32px)][typescript]&nbsp;&nbsp;
+[![Git](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/git.svg&fill=%23F05032&width=32px)][git]
+[![Mongo DB](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/mongodb.svg&fill=%2347A248&width=32px)][mongodb]
 
 ---
+
+<br />
 
 [![M1g's GitHub stats-Dark](https://github-readme-stats-m1g.vercel.app/api?username=m1g&show_icons=true&hide=stars&count_private=true&theme=tokyonight#gh-dark-mode-only)](https://github-readme-stats-m1g.vercel.app#gh-dark-mode-only)
 [![M1g's GitHub stats-Light](https://github-readme-stats-m1g.vercel.app/api?username=m1g&show_icons=true&hide=stars&count_private=true&theme=transparent#gh-light-mode-only)](https://github-readme-stats-m1g.vercel.app#gh-light-mode-only)
   
 
 [website]: https://m1g.github.io
-[twitter]: https://twitter.com/miguelmalcolm
-[linkedin]: https://linkedin.com/in/miguel-js
-[instagram]: https://instagram.com/miguelxmalcolm
 [vscode]: https://code.visualstudio.com/
-[github]: https://github.com/
 [javascript]: https://www.javascript.com/
 [sass]: https://sass-lang.com/
 [react]: https://reactjs.org/
