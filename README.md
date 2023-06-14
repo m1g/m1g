@@ -2,7 +2,7 @@
 
 ### What I'm up to:
 
-- 💻 I'm currently creating drafts for [my hexo blog][website]
+- 💻 I'm currently writing drafts for [my hexo blog][website]
 - 🛣️ I'm exploring architectural solutions and workflows
 - 📕 I'm also experimenting with different CMS approaches
 - ⚡ 2023 Goals: 
@@ -34,11 +34,9 @@
 
 ---
 
-<br />
-<br />
+[![M1g's GitHub stats-Dark](https://github-readme-stats-m1g.vercel.app/api?username=m1g&show_icons=true&hide=stars&count_private=true&theme=tokyonight#gh-dark-mode-only)](https://github-readme-stats-m1g.vercel.app#gh-dark-mode-only)
+[![M1g's GitHub stats-Light](https://github-readme-stats-m1g.vercel.app/api?username=m1g&show_icons=true&hide=stars&count_private=true&theme=transparent#gh-light-mode-only)](https://github-readme-stats-m1g.vercel.app#gh-light-mode-only)
   
-<img align="left" alt="m1g's Github Stats" src="https://github-readme-stats-m1g.vercel.app/api?username=m1g&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=tokyonight">
-
 
 [website]: https://m1g.github.io
 [twitter]: https://twitter.com/miguelmalcolm
