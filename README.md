@@ -22,9 +22,9 @@
 
 ### My Tools:
 
-[![Visual Studio Code](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/visualstudio.svg&fill=%23007ACC&width=32px)][vscode]&nbsp;&nbsp;
-[![Miguel | Github](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/github.svg&fill=white&width=32px#gh-dark-mode-only)](https://github.com/m1g#gh-dark-mode-only)&nbsp;&nbsp;
-[![Miguel | Github](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/github.svg&fill=black&width=32px#gh-light-mode-only)](https://github.com/m1g#gh-light-mode-only)
+[![Visual Studio Code](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/visualstudio.svg&fill=%23007ACC&width=32px)][vscode]&nbsp;&nbsp;&nbsp;
+[![Miguel | Github](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/github.svg&fill=white&width=32px#gh-dark-mode-only)](https://github.com/m1g#gh-dark-mode-only)&nbsp;
+[![Miguel | Github](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/github.svg&fill=black&width=32px#gh-light-mode-only)](https://github.com/m1g#gh-light-mode-only)&nbsp;
 [![Javascript](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/javascript.svg&fill=%23F7DF1E&width=32px)][javascript]&nbsp;&nbsp;
 [![Sass](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/sass.svg&fill=%23CC6699&width=32px)][sass]&nbsp;
 [![React](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/react.svg&fill=%2361DAFB&width=32px)][react]&nbsp;&nbsp;
