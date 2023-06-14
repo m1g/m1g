@@ -2,12 +2,12 @@
 
 ### What I'm up to:
 
-- 💻 I'm currently creating drafts for [my jekyll blog][website]
-- 🔰 I'm exploring GraphQL as an alternative to REST
-- 📕 I'm also experimenting more with the MERN stack
-- ⚡ 2021 Goals: 
-  - [ ] Create and maintain a useful full-stack app
-  - [ ] Be more opinionated on data architecture
+- 💻 I'm currently creating drafts for [my hexo blog][website]
+- 🛣️ I'm exploring architectural solutions and workflows
+- 📕 I'm also experimenting different CMS approaches
+- ⚡ 2023 Goals: 
+  - [ ] Build a simple, reusable CMS template
+  - [ ] Be more conscious of my own downtime v. uptime
   - [ ] Up my non-existent hacker skills (infosec)
 
 ### Let's connect:
@@ -39,7 +39,7 @@
 
 <img align="left" alt="m1g's Github Stats" src="https://github-readme-stats.vercel.app/api?username=m1g&show_icons=true&hide_border=true&hide=stars&count_private=true">
 
-[website]: https://malcolmcodes.com
+[website]: https://m1g.github.io
 [twitter]: https://twitter.com/miguelmalcolm
 [linkedin]: https://linkedin.com/in/miguel-js
 [instagram]: https://instagram.com/miguelxmalcolm
