@@ -4,7 +4,7 @@
 
 - 💻 I'm currently creating drafts for [my hexo blog][website]
 - 🛣️ I'm exploring architectural solutions and workflows
-- 📕 I'm also experimenting different CMS approaches
+- 📕 I'm also experimenting with different CMS approaches
 - ⚡ 2023 Goals: 
   - [ ] Build a simple, reusable CMS template
   - [ ] Be more conscious of my own downtime v. uptime
@@ -36,6 +36,8 @@
 
 <br />
 <br />
+  
+<img align="left" alt="m1g's Github Stats" src="https://github-readme-stats-m1g.vercel.app/api?username=m1g&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=tokyonight">
 
 
 [website]: https://m1g.github.io
