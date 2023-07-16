@@ -31,13 +31,15 @@
 [![Typescript](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/typescript.svg&fill=%233178C6&width=32px)][typescript]&nbsp;&nbsp;
 [![Git](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/git.svg&fill=%23F05032&width=32px)][git]
 [![Mongo DB](https://svg-rewriter.sachinraja.workers.dev/?url=https://cdn.jsdelivr.net/npm/simple-icons@6/icons/mongodb.svg&fill=%2347A248&width=32px)][mongodb]
-
+<!-- Why can't we have nice things
 ---
 
 <br />
 
+
 [![M1g's GitHub stats-Dark](https://github-readme-stats-m1g.vercel.app/api?username=m1g&show_icons=true&hide=stars&count_private=true&theme=tokyonight#gh-dark-mode-only)](https://github-readme-stats-m1g.vercel.app#gh-dark-mode-only)
 [![M1g's GitHub stats-Light](https://github-readme-stats-m1g.vercel.app/api?username=m1g&show_icons=true&hide=stars&count_private=true&theme=transparent#gh-light-mode-only)](https://github-readme-stats-m1g.vercel.app#gh-light-mode-only)
+-->
   
 
 [website]: https://m1g.github.io
