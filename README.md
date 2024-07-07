@@ -3,12 +3,12 @@
 ### What I'm up to:
 
 - 💻 I'm currently writing drafts for [my hexo blog][website]
-- 🛣️ I'm exploring React architectural solutions and workflows
-- 📕 I'm also experimenting with different CMS approaches
-- ⚡ 2023 Goals: 
-  - [ ] Up my non-existent hacker skills (infosec)
-  - [ ] Build a simple, reusable CMS template
-  - [ ] Be more conscious of my own downtime v. uptime
+- 🛣️ I'm exploring Data Science and tinkering with LLMs
+- 📕 I'm also experimenting with quick jamstack site builds
+- ⚡ 2024 Goals: 
+  - [ ] Improve my understanding of Data Science, ML, and Deep learning
+  - [ ] Pick up Python
+  - [ ] Publish more blog entries.. they're rotting in the drafts
 
 ### Let's connect:
 
