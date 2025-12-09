@@ -5,8 +5,8 @@
 - 💻 I'm currently writing drafts for [my hexo blog][website]
 - 🛣️ I'm exploring Data Science and tinkering with LLMs
 - 📕 I'm also experimenting with quick jamstack site builds
-- ⚡ 2024 Goals: 
-  - [ ] Improve my understanding of Data Science, ML, and Deep learning
+- ⚡ 2025 Goals: 
+  - [ ] Improve my understanding of the data landscape
   - [ ] Pick up Python
   - [ ] Publish more blog entries.. they're rotting in the drafts
 
